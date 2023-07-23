@@ -1,0 +1,12 @@
+.btn {
+    background-color:rgb(87, 87, 227);
+    border: none;
+    color:aliceblue;
+    padding: 5px;
+}
+
+#para {
+    display: none;
+    background-color: rgb(147, 241, 210);
+    border: 1px solid brown;
+}
